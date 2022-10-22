@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Mac file types to be ignored
 .DS_Store
 .DS_Store?
@@ -14,6 +15,8 @@ Thumbs.db
 # folders to be ignored
 env/
 =======
+=======
+>>>>>>> afd009592f2dbcad3adf3932ca3e864b3a96dadd
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -143,4 +146,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+>>>>>>> afd009592f2dbcad3adf3932ca3e864b3a96dadd
+=======
 >>>>>>> afd009592f2dbcad3adf3932ca3e864b3a96dadd
